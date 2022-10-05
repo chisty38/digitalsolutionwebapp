@@ -16,4 +16,3 @@ This project was build from scratch, it's meant to provide you with an idea of h
 - Material-ui
 	  1) npm install @material-ui/icons
 	  2) npm install @material-ui/core
-	  
